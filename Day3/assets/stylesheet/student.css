@@ -20,6 +20,7 @@ a{
     background-color: aquamarine;
     text-align: center;
     border:50px;
+    border: solid 10px;
     margin: 50px;
     padding: 70px;
     width: 600px;
@@ -27,7 +28,7 @@ a{
    }
    .name{
     text-align: center;
-    padding: 50px;
+    padding: 30px;
     font-size: larger;
    }
 
