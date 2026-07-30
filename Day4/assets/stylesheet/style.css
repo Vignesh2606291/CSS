@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.one{
+    background-color: rgb(0, 0, 0);
+    height: 600px;
+    display: flex;
+    flex-wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+
+}
+
+.two{
+    background-color: darkolivegreen;
+    color: antiquewhite;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
